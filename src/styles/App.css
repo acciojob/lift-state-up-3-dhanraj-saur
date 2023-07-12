@@ -4,12 +4,12 @@
     background-color: lightgreen;
 }
 
- .child1 {
+.child1 {
     background-color: red;
     height: 65px;
 }
 
- .child2 {
+.child2 {
     height: 65px;
     background-color: yellow;
     margin-top: -20px;

@@ -1,13 +1,16 @@
-/* .parent {
+.parent {
     margin: 20px;
     padding: 40px;
     background-color: lightgreen;
 }
 
-.child1 {
-    background-color: yellow;
+ .child1 {
+    background-color: red;
+    height: 65px;
 }
 
-.child2 {
-    background-color: red;
-} */
+ .child2 {
+    height: 65px;
+    background-color: yellow;
+    margin-top: -20px;
+}
